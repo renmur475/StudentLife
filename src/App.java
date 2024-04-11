@@ -77,7 +77,7 @@ public class App extends Application{
         appsPane.getRowConstraints().addAll(row0, row1, row2);
 
         //Calendar
-        calendarImage = new Image("file:src/Images/calculator.png", 100, 100, false, false);
+        calendarImage = new Image("file:StudentLife-main/src/images/calculator.png", 100, 100, false, false);
         calendarImageView = new ImageView(calendarImage);
         appsPane.add(calendarImageView, 0, 0);
         GridPane.setHalignment(calendarImageView, HPos.CENTER);
@@ -88,7 +88,7 @@ public class App extends Application{
         GridPane.setValignment(calendarBtn, VPos.TOP);
 
         //Calculator
-        calculatorImage = new Image("file:src/Images/calendar.png", 90, 90, false, false);
+        calculatorImage = new Image("file:StudentLife-main/src/images/calendar.png", 90, 90, false, false);
         calculatorImageView = new ImageView(calculatorImage);
         appsPane.add(calculatorImageView, 1, 0);
         GridPane.setHalignment(calculatorImageView, HPos.CENTER);
@@ -99,7 +99,7 @@ public class App extends Application{
         GridPane.setValignment(calculatorBtn, VPos.TOP);       
 
         //Notes
-        notesImage = new Image("file:src/Images/writing.png", 90, 90, false, false);
+        notesImage = new Image("file:StudentLife-main/src/images/writing.png", 90, 90, false, false);
         notesImageView = new ImageView(notesImage);
         appsPane.add(notesImageView, 0, 2);
         GridPane.setHalignment(notesImageView, HPos.CENTER);
@@ -110,7 +110,7 @@ public class App extends Application{
         GridPane.setValignment(notesBtn, VPos.TOP);        
         
         //FlashCards
-        flashcardsImage = new Image("file:src/Images/icons8-flashcards-96.png", 100, 100, false, false);
+        flashcardsImage = new Image("file:StudentLife-main/src/images/icons8-flashcards-96.png", 100, 100, false, false);
         flashcardsImageView = new ImageView(flashcardsImage);
         appsPane.add(flashcardsImageView, 1, 2);
         GridPane.setHalignment(flashcardsImageView, HPos.CENTER);
