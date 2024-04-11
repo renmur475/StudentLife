@@ -15,4 +15,4 @@ In the Notes app, the user can type any text into the text area. Then, they can 
 In the Flashcards app, the user can enter the front and back of a virtual flashcard. Under the text, "Side 1" the user can enter text for the first side of the card in the text area. Under "Side 2", the user can enter text for the other side. Once the text has been added to both sides, the user can click the "Add" button to add the flashcard. The user can write up to 99 flashcards. Once the user has entered their flashcards, they can click the "Study" button. This opens a new window where a front side of a random flashcard is displayed. If the user clicks the "Flip" button, the flashcard displays the opposite side. If the user clicks the "Next" button, another random flashcard will be displayed. To exit, the user can close the "Study" window. Clicking the "Home" button will return to the home screen.
 
 # How to Run
-Execute the App class to launch Student Life. 
+Download all files in the src folder, and import them into a new Java project. Ensure all JavaFX libraries and configurations are added. Execute the App class to launch Student Life. Or, launch the StudentLife.jar file.
