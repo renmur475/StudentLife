@@ -9,7 +9,7 @@ The user is greeted with the home screen where they can click the buttons for th
 In the Calculator app enter two numbers to be used at a time. 
 
 ## Calender
-In the Calender app enter an assignment name and choose its due date by pressing the calendar icon next to it. Add the assignment to the table by clicking the "Add" button. When you finish an assignment, click the checkbox to mark it off and the "Hide finished assignments" button to remove done assignments from view. 
+In the Calender app enter an assignment name and choose its due date by pressing the calendar icon next to it. Add the assignment to the table by clicking the "Add" button. When you finish an assignment, click the checkbox to mark it off and the "Hide finished assignments" button to remove done assignments from view. Click on the "Due Date" column to sort the assignments by due date. 
 
 ## Notes
 In the Notes app, the user can type any text into the text area. Then, they can press the "Save" button to save that text to a .txt file on their computer. The user can also open a .txt file using the "Open" button, and the text will display in the text area. Clicking the "Home" button will return to the home screen. 
