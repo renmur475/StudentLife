@@ -3,7 +3,7 @@
 The user is greeted with the home screen where they can click the buttons for the following apps: "Calculator", "Calender", "Notes", and "Flashcards".
 
 ## Calculator
-In the Calculator app enter two numbers to be used at a time. 
+In the Calculator app enter two numbers at a time to be used, ie 1 + 1 and not 1 + 1 + 1. 
 
 ## Calender
 In the Calender app enter an assignment name and choose its due date by pressing the calendar icon next to it. Add the assignment to the table by clicking the "Add" button. When you finish an assignment, click the checkbox to mark it off and the "Hide finished assignments" button to remove done assignments from view. 
